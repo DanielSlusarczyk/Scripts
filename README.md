@@ -6,7 +6,7 @@ Skrypt umożliwiający automatyzacje zarządzania katalogiem przechowującym zrz
 
 Dodanie skryptu do automatycznego uruchamiania pozwala na ciągłe zachowanie uporządkowania katalogu, a redyrekcja informacji zwracanych przez skrypt do wydzielonego pliku na kontrole działania skryptu.
 
-### Katalog po działaniu skruptu:
+### Katalog po działaniu skryptu:
 ![2022-04-20 21_44_59-PlikiGS](https://user-images.githubusercontent.com/74370363/164310597-3545a255-ae76-4098-bb12-ae7f54d5c240.png)
 
 ### Raport po miesiącu automatycznego uruchamiania przy starcie systemu:
