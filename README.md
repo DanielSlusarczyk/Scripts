@@ -1,7 +1,7 @@
 # Scripts
 Repozytorium przechowujące autorskie skrypty wykonujące określone cele z zakresu Sieci Komputerowych i Systemów Operacyjnych.
 
-##zrzutyEkranu.ps1
+## zrzutyEkranu.ps1
 Skrypt umożliwiający automatyzacje zarządzania katalogiem przechowującym zrzuty ekrany. Uruchomienie skryptu powoduje przejrzenie wszystkich plików (z wyłączeniem katalogów) zawartych w zadeklarowanej ścieżce. Na podstawie daty modyfikacji pliku tworzony jest katalog o nazwie [miesiąc]_[rok] (jeśli takowy już nie istnieje), a następnie plik jest przenoszony do przypisanego katalogu. Ostatnim krokiem skryptu jest zaraportowanie liczby przeniesionych plików i ewentualnego utworzenia nowego katalogu. 
 
 Dodanie skryptu do automatycznego uruchamiania pozwala na ciągłe zachowanie uporządkowania katalogu, a redyrekcja informacji zwracanych przez skrypt do wydzielonego pliku na kontrole działania skryptu.
